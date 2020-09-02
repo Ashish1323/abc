@@ -1,3 +1,3 @@
 danmsdoandasl
 
-ashish teri maa ki chut
+ashish teri maa ki lund
