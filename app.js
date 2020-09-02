@@ -91,16 +91,6 @@ app.use(bodyParser.urlencoded({extended:true}));
 
 
 
-   Question = mongoose.model("Question", QuestionSchema);
-
-
-app.use(bodyParser.urlencoded({extended: true}));
-app.use(require("express-session")({
-	secret:"oh yeah",
-	resave:false,
-	saveUninitialized:false
-}));
-
 
 
 
